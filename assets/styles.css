@@ -1,0 +1,28 @@
+h1 {
+    color: red;
+    background-color: bisque;
+    font: arial;
+    font-size: xx-large;
+    text-align: center;
+    border-style: double;
+    border-radius: 10%;
+    border-width: 10%;
+    border-color: brown;
+}
+
+div {
+    background-color: bisque;
+    border-style: double;
+    border-radius: 10%;
+    border-width: 10%;
+    border-color: brown;
+
+}
+
+p {
+    background-color: gainsboro;
+    border-style: double;
+    border-radius: 10%;
+    border-width: 10%;
+    border-color: darkolivegreen;
+}
