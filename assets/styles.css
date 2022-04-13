@@ -1,8 +1,8 @@
 h1 {
-    color: red;
+    color: crimson;
     background-color: bisque;
     font: arial;
-    font-size: xx-large;
+    font-size: 40px;
     text-align: center;
     border-style: double;
     border-radius: 10%;
@@ -13,16 +13,48 @@ h1 {
 div {
     background-color: bisque;
     border-style: double;
-    border-radius: 10%;
-    border-width: 10%;
+    border-radius: 5%;
     border-color: brown;
+    padding: 1%;
+    margin: 0%;
 
 }
-
+#motto {
+    background-color:khaki;
+    border-style: groove;
+    border-radius: 2%;
+    border-width: 10%;
+    border-color: goldenrod;
+}
 p {
     background-color: gainsboro;
     border-style: double;
     border-radius: 10%;
     border-width: 10%;
     border-color: darkolivegreen;
+}
+
+ul {
+    font-size: 18px;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: coral;
+}
+li {
+    float:center;
+}
+li a {
+display:block;
+color:white;
+text-align: center;
+padding: 14 px 16px;
+text-decoration: none;
+}
+li a:hover{
+    background-color: crimson;
+}
+header {
+    text-align: center;
 }
