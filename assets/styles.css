@@ -58,3 +58,8 @@ li a:hover{
 header {
     text-align: center;
 }
+img {
+    padding-left: 300px;
+    padding-right: 300px;
+    border-radius: 20%;
+}
